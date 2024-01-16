@@ -1295,8 +1295,8 @@ h2{
 #newsletter .form {
   width: 100%;
 }
- footer {
-   flex-direction: column;
+footer {
+  flex-direction: column;
 }
 #pro-details {
   padding: 20px 20px;
