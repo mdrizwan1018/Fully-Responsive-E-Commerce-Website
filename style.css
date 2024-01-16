@@ -1322,9 +1322,6 @@ h2{
 #blog .blog-details {
   width: 100%;
 }
-#blog .blog-details {
-  width: 50%;
-}
 #about-head {
   flex-direction: column;
 }
